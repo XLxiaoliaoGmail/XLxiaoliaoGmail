@@ -2,6 +2,9 @@
 
 我是 Liao，在这里会不定期更新我的一些文章或者资料，欢迎经常来交流👋👋👋
 
+### 飞书知识库
+[https://ai.feishu.cn/drive/folder/Wnb0fDwLdl00JGdgQRLcUbmLnwd](https://ai.feishu.cn/drive/folder/Wnb0fDwLdl00JGdgQRLcUbmLnwd)
+
 ### 文章列表
 | 📃 标题 | 📅 时间 |
 | :--- | :--- |
